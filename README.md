@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev Solano
 
  <div>
-   <a href="https://github.com/dev-solano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-solano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-solano&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/devsolano">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsolano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsolano&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
